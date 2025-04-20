@@ -2,4 +2,6 @@
 last_run_metadata.json
 
 # Ignore the output directory
+
+# Ignore the output directory
 cms_hospital_datasets/ 
